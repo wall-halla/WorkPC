@@ -2,4 +2,9 @@
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="java.sql.Date"/>
     <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="item.Item"/>
+    <fullyQualifiedTypeName name="items.Item"/>
+    <fullyQualifiedTypeName name="items.armor.Armor"/>
+    <fullyQualifiedTypeName name="tetris.GameWell"/>
+    <fullyQualifiedTypeName name="tetris.Tetrimino"/>
 </qualifiedTypeNameHistroy>
